@@ -1,6 +1,7 @@
 # Heart Disease Prediction using Machine Learning
 
-# To run this project :
+
+To run this project :
 
 -> Install required packages
 
